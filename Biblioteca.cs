@@ -138,6 +138,16 @@ namespace TheFinalProject
             }
         }
 
+        public void ListarUsuarios()
+        {
+            Console.WriteLine("\n--- Lista de Usuários ---");
+            foreach (var usuario in Usuarios)
+            {
+                Console.WriteLine($"Nome: {usuario.Nome} | Matrícula: {usuario.Matricula}");
+            }
+        }
+
+
         public void ExibirRelatorios()
         {
             Console.WriteLine("\n--- Relatório ---");
