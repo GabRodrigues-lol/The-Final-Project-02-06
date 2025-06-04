@@ -1,0 +1,15 @@
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\bin\Debug\net8.0\projeto_final.exe
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\bin\Debug\net8.0\projeto_final.deps.json
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\bin\Debug\net8.0\projeto_final.runtimeconfig.json
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\bin\Debug\net8.0\projeto_final.dll
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\bin\Debug\net8.0\projeto_final.pdb
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\obj\Debug\net8.0\projeto_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\obj\Debug\net8.0\projeto_final.AssemblyInfoInputs.cache
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\obj\Debug\net8.0\projeto_final.AssemblyInfo.cs
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\obj\Debug\net8.0\projeto_final.csproj.CoreCompileInputs.cache
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\obj\Debug\net8.0\projeto_final.sourcelink.json
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\obj\Debug\net8.0\projeto_final.dll
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\obj\Debug\net8.0\refint\projeto_final.dll
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\obj\Debug\net8.0\projeto_final.pdb
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\obj\Debug\net8.0\projeto_final.genruntimeconfig.cache
+C:\Users\grautecnico\Documents\GitHub\The-Final-Project-02-06\obj\Debug\net8.0\ref\projeto_final.dll

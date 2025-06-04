@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grautecnico\\Desktop\\projeto_final\\projeto_final.csproj",
+      "projectUniqueName": "C:\\Users\\grautecnico\\Documents\\GitHub\\The-Final-Project-02-06\\projeto_final.csproj",
       "projectName": "projeto_final",
-      "projectPath": "C:\\Users\\grautecnico\\Desktop\\projeto_final\\projeto_final.csproj",
+      "projectPath": "C:\\Users\\grautecnico\\Documents\\GitHub\\The-Final-Project-02-06\\projeto_final.csproj",
       "packagesPath": "C:\\Users\\grautecnico\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grautecnico\\Desktop\\projeto_final\\obj\\",
+      "outputPath": "C:\\Users\\grautecnico\\Documents\\GitHub\\The-Final-Project-02-06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grautecnico\\AppData\\Roaming\\NuGet\\NuGet.Config",
