@@ -16,8 +16,8 @@ namespace TheFinalProject
             Usuarios.Add(new Usuario { Nome = "Carlos", Matricula = "U003" });
 
             Livros.Add(new Livro { Titulo = "1984", Autor = "George Orwell", ISBN = "ISBN001", Quantidade = 3 });
-            Livros.Add(new Livro { Titulo = "Dom Casmurro", Autor = "Machado de Assis", ISBN = "ISBN002", Quantidade = 2 });
-            Livros.Add(new Livro { Titulo = "O Alquimista", Autor = "Paulo Coelho", ISBN = "ISBN003", Quantidade = 1 });
+            Livros.Add(new Livro { Titulo = "Nada Pode Me Ferir", Autor = "David Goggins", ISBN = "ISBN002", Quantidade = 2 });
+            Livros.Add(new Livro { Titulo = "A Revolução dos Bichos", Autor = "George Orwell", ISBN = "ISBN003", Quantidade = 1 });
 
             Emprestimos.Add(new Emprestimo
             {
